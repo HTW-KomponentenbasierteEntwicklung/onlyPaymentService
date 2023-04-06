@@ -22,6 +22,7 @@ import static org.mockito.Mockito.*;
 import static org.assertj.core.api.Assertions.*;
 
 @SpringBootTest
+@DataJpaTest
 @RunWith(MockitoJUnitRunner.class)
 public class PaymentServiceTests {
 
