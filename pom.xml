@@ -132,6 +132,7 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>payment_service</finalName>
 	</build>
 
 </project>

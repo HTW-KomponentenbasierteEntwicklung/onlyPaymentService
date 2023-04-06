@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: de.htwberlin.paymentService.unitTests.PaymentServiceTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.287 s <<< FAILURE! - in de.htwberlin.paymentService.unitTests.PaymentServiceTests
+de.htwberlin.paymentService.unitTests.PaymentServiceTests  Time elapsed: 0.286 s  <<< ERROR!
+java.lang.IllegalStateException: Configuration error: found multiple declarations of @BootstrapWith for test class [de.htwberlin.paymentService.unitTests.PaymentServiceTests]: [@org.springframework.test.context.BootstrapWith(value=org.springframework.boot.test.context.SpringBootTestContextBootstrapper.class), @org.springframework.test.context.BootstrapWith(value=org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTestContextBootstrapper.class)]
+
