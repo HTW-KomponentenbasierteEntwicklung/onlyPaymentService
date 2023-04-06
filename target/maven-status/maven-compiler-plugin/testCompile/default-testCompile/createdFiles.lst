@@ -1,0 +1,9 @@
+de/htwberlin/paymentService/integrationTests/PaymentServiceIntegrationTests.class
+de/htwberlin/paymentService/unitTests/PaymentProducerTest.class
+de/htwberlin/paymentService/unitTests/PaymentConsumerTest.class
+de/htwberlin/paymentService/integrationTests/PaymentServiceIntegrationTests$PaymentServiceTestContextConfiguration$1.class
+de/htwberlin/paymentService/unitTests/PaymentServiceTests.class
+de/htwberlin/paymentService/unitTests/PaymentValidatorTests.class
+de/htwberlin/paymentService/integrationTests/PaymentServiceIntegrationTests$PaymentServiceTestContextConfiguration.class
+de/htwberlin/paymentService/unitTests/PaymentControllerTests.class
+de/htwberlin/paymentService/unitTests/PaymentServiceApplicationTests.class
