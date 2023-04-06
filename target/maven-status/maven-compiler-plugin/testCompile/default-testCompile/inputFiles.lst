@@ -1,7 +1,7 @@
-/home/mylinh/webWithTests/microservices/paymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentProducerTest.java
-/home/mylinh/webWithTests/microservices/paymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentServiceApplicationTests.java
-/home/mylinh/webWithTests/microservices/paymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentServiceTests.java
-/home/mylinh/webWithTests/microservices/paymentService/src/test/java/de/htwberlin/paymentService/integrationTests/PaymentServiceIntegrationTests.java
-/home/mylinh/webWithTests/microservices/paymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentValidatorTests.java
-/home/mylinh/webWithTests/microservices/paymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentControllerTests.java
-/home/mylinh/webWithTests/microservices/paymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentConsumerTest.java
+/home/mylinh/onlyPaymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentValidatorTests.java
+/home/mylinh/onlyPaymentService/src/test/java/de/htwberlin/paymentService/integrationTests/PaymentServiceIntegrationTests.java
+/home/mylinh/onlyPaymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentConsumerTest.java
+/home/mylinh/onlyPaymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentControllerTests.java
+/home/mylinh/onlyPaymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentServiceTests.java
+/home/mylinh/onlyPaymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentProducerTest.java
+/home/mylinh/onlyPaymentService/src/test/java/de/htwberlin/paymentService/unitTests/PaymentServiceApplicationTests.java
